@@ -1,6 +1,3 @@
-//Name: Tariq Alharbi
-//ASU ID: 1227159754
-
 #include "main.h"
 #include <iostream>
 #include <fstream>
