@@ -1,6 +1,3 @@
-//Name: Tariq Alharbi
-//ASU ID: 1227159754
-
 #ifndef HEAP_H
 #define HEAP_H
 
