@@ -1,6 +1,3 @@
-//Name: Tariq Alharbi
-//ASU ID: 1227159754
-
 #include "graph.h"
 #include "heap.h"
 #include "stack.h"
