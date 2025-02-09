@@ -1,6 +1,3 @@
-//Name: Tariq Alharbi
-//ASU ID: 1227159754
-
 #pragma once
 #ifndef DATA_STRUCTURES_H
 #define DATA_STRUCTURES_H
